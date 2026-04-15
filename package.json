@@ -1,0 +1,16 @@
+{
+  "name": "hotmail-checker",
+  "version": "2.0.0",
+  "description": "HOTMAIL Checker v2.0 - Node.js/Vercel Edition",
+  "main": "api/checker.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["hotmail", "checker", "vercel"],
+  "author": "@Yukiii_ii",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
